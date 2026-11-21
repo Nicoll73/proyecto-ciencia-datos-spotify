@@ -4,7 +4,7 @@ Proyecto final del curso de Ciencia de Datos.
 
 ## Integrantes
 - Miguel Ángel Malagón Villarreal
-- (Nombre del integrante 2)
+- Nicoll Sofia Oyola Sanchez 
 - (Nombre del integrante 3, si aplica)
 
 ## Video de presentación
